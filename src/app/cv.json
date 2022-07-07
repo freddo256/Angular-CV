@@ -1,0 +1,384 @@
+{
+    "name": "Ferre Vekemans",
+    "title": "Systems and networking engineer",
+    "address": "Keizer Karelstraat 7, 3920 Lommel",
+    "phone": "+32 495 76 99 87",
+    "phoneshort": "0032495769987",
+    "dns": "https://cv.vekemansferre.be/",
+    "dnsshort": "cv.vekemansferre.be",
+    "linkedin": "https://www.linkedin.com/in/ferrev/",
+    "linkedinshort": "linkedin.com/in/ferrev",
+    "github": "https://github.com/freddo256",
+    "githubshort": "github.com/freddo256",
+    "mail": "ferre.99@hotmail.com",
+    "birthdate": "08/12/1999",
+    "birthplace": "3920 Lommel, Belgium",
+    "every string in the info array is parsed as a paragraph, if you want you can use extra HTML elements for formatting.": ":)",
+    "info": [
+        "Since I was a child I have been into IT. It all started with disassembling old pc's or simply installing random linux os'es. In secondary school I chose to start studying Electricity and Electronics. This is were I got in touch with programming for the first time, I was so good at it that I got myself a LEGO Mindstorms robot too. In the fifth grade I switched to a secondary school in Geel, because they had Electronics with ICT. This is where I started programming for real. We learned c++, python with a Raspberry PI and embedded C. This is also when I started gaming and hosting my own Minecraft servers at home. The final project I did here was digitalizing an old pinball machine, I used a Raspberry PI connected to a relay board to read the scores from the machine and display them on a website.",
+        "After I graduated I went to UHasselt to study IT, I learned a lot here and worked with real clients on big software projects using Vue, Typescript and Node.js.",
+        "It was soon clear that I am more a practical type of person, so I made a switch to PXL with a specialization in systems and networking. I started getting in touch with IaC, DevOps, Cloud and so much more interesting stuff... For a project for Datasense, a Belgian company, I worked as a systems and DevOps engingeer. I implemented CI/CD pipelines on Microsoft Azure with lots of tools on a Kubernetes cluster.",
+        "Probably the greatest thing in my career was my internship. Trough PXL I got the opportunity to travel to South Africa, where I successfully finished my internship as a DevOps engineer at Botlhale Village.",
+        "What happened to my old Minecraft server? Well, I'm glad you asked. It is still running! It got a lot of upgrades and evolved into my so called 'homelab'. What was a simple Minecraft server before is now a Proxmox virtualisation server running a bunch of LXC containers and virtual machines. I am running my own file server, VPN, proxy, game server (using Pterodactyl, an open-source project for hosting all the game server you can imagine), Plex Media Server and lots more!"
+    ],
+    "education": [
+        {
+            "start": "2019",
+            "end": "2022",
+            "title": "Applied Computer Science - Systems and Networking",
+            "institution": "PXL University of Applied Sciences and Arts",
+            "location": "Hasselt, Belgium"
+        },
+        {
+            "start": "2017",
+            "end": "2019",
+            "title": "Academic Bachelor - Computer Science",
+            "institution": "Hasselt University",
+            "location": "Diepenbeek, Belgium"
+        },
+        {
+            "start": "2015",
+            "end": "2017",
+            "title": "Secondary School - Electronics-ICT",
+            "institution": "Kogeka Sint Josef",
+            "location": "Geel, Belgium"
+        }
+    ],
+    "experiences": [
+        {
+            "start": "2022",
+            "end": "2022",
+            "title": "DevOps Engineer (Internship)",
+            "company": "Botlhale Village",
+            "description": "DevOps engineer at Botlhale Village, a research and development facility at Belgium Campus ITVersity.",
+            "location": "Pretoria, South Africa"
+        },
+        {
+            "start": "2021",
+            "end": "2022",
+            "title": "Delivery driver",
+            "company": "Febelco",
+            "description": "Delivery service for pharmaceutical products.",
+            "location": "Heusden-Zolder, Belgium"
+        },
+        {
+            "start": "2020",
+            "end": "2022",
+            "title": "Catering work",
+            "company": "Mise en Place",
+            "description": "Mise en Place is an employment agency for catering work. From here I have worked in many bars, taverns and restaurants such as football stadium KRC Genk, holiday resort Europarcs Mol, and michelin star restaurant La Butte aux Bois.",
+            "location": "Hasselt, Belgium"
+        },
+        {
+            "start": "2018",
+            "end": "2020",
+            "title": "IT service and helpdesk",
+            "company": "Fire department Lommel",
+            "description": "This was a summer job I did for 3 years where I mostly helped them out with the migration from on-site servers to office 365.",
+            "location": "Lommel, Belgium"
+        },
+        {
+            "start": "2017",
+            "end": "2017",
+            "title": "Student job in a factory",
+            "company": "DYKA",
+            "description": "During this summer job I had to make special plastic drainpipes.",
+            "location": "Pelt, Belgium"
+        },
+        {
+            "start": "2016",
+            "end": "2017",
+            "title": "Student job in a DIY store",
+            "company": "Brico",
+            "description": "During this weekend job I served customers.",
+            "location": "Lommel, Belgium"
+        }
+    ],
+    "languanges": [
+        {
+            "type": "Languanges",
+            "name": "Dutch",
+            "desc": "Native"
+        },
+        {
+            "type": "Languanges",
+            "name": "English",
+            "desc": "Professional"
+        },
+        {
+            "type": "Languanges",
+            "name": "French",
+            "desc": "Professional"
+        }
+    ],
+    "skilltypes": [
+        "Operating Systems",
+        "Cloud Environments",
+        "Tools - DevOps",
+        "Tools - Networking",
+        "Tools - Monitoring",
+        "Programming Languanges",
+        "Frameworks"
+    ],
+    "skills": [
+        {
+            "type": "Operating Systems",
+            "skill": "Windows (Server)",
+            "value": 70
+        },
+        {
+            "type": "Operating Systems",
+            "skill": "Debian",
+            "value": 80
+        },
+        {
+            "type": "Operating Systems",
+            "skill": "Ubuntu (Server)",
+            "value": 90
+        },
+        {
+            "type": "Operating Systems",
+            "skill": "Arch/Manjaro",
+            "value": 80
+        },
+        {
+            "type": "Operating Systems",
+            "skill": "Pop!_OS",
+            "value": 90
+        },
+        {
+            "type": "Operating Systems",
+            "skill": "CentOS",
+            "value": 80
+        },
+        {
+            "type": "Operating Systems",
+            "skill": "FreeNAS",
+            "value": 90
+        },
+        {
+            "type": "Cloud Environments",
+            "skill": "AWS",
+            "value": 70
+        },
+        {
+            "type": "Cloud Environments",
+            "skill": "Azure",
+            "value": 65
+        },
+        {
+            "type": "Cloud Environments",
+            "skill": "Google Cloud",
+            "value": 50
+        },
+        {
+            "type": "Cloud Environments",
+            "skill": "VMWare VSphere",
+            "value": 90
+        },
+        {
+            "type": "Cloud Environments",
+            "skill": "VMWare ESXi",
+            "value": 90
+        },
+        {
+            "type": "Cloud Environments",
+            "skill": "Proxmox",
+            "value": 90
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Docker",
+            "value": 100
+        },
+        {
+            "type": "Tools - Networking",
+            "skill": "Cisco",
+            "value": 70
+        },
+        {
+            "type": "Tools - Networking",
+            "skill": "Nginx",
+            "value": 90
+        },
+        {
+            "type": "Tools - Networking",
+            "skill": "OpenVPN",
+            "value": 90
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Jenkins",
+            "value": 90
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Github Actions",
+            "value": 90
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "GitLab CI/CD",
+            "value": 90
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "SonarQube",
+            "value": 100
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Snyk",
+            "value": 90
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Harbor",
+            "value": 90
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Terraform",
+            "value": 100
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Puppet",
+            "value": 60
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Ansible",
+            "value": 100
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Vagrant",
+            "value": 100
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Kubernetes",
+            "value": 90
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Nomad",
+            "value": 80
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "Consul",
+            "value": 70
+        },
+        {
+            "type": "Tools - Networking",
+            "skill": "Traefik",
+            "value": 80
+        },
+        {
+            "type": "Tools - Monitoring",
+            "skill": "Prometheus",
+            "value": 70
+        },
+        {
+            "type": "Tools - Monitoring",
+            "skill": "Grafana",
+            "value": 70
+        },
+        {
+            "type": "Tools - DevOps",
+            "skill": "MetalLB",
+            "value": 90
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "Python",
+            "value": 90
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "C",
+            "value": 70
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "C#",
+            "value": 80
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "C++",
+            "value": 60
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "QT",
+            "value": 90
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "HTML, PHP, CSS",
+            "value": 100
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "Javascript/Typescript",
+            "value": 90
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "Latex",
+            "value": 100
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "SQL",
+            "value": 100
+        },
+        {
+            "type": "Programming Languanges",
+            "skill": "Java",
+            "value": 80
+        },
+        {
+            "type": "Frameworks",
+            "skill": "Vue.js",
+            "value": 100
+        },
+        {
+            "type": "Frameworks",
+            "skill": "Angular",
+            "value": 60
+        },
+        {
+            "type": "Frameworks",
+            "skill": "Symfony",
+            "value": 70
+        },
+        {
+            "type": "Frameworks",
+            "skill": "Node.js",
+            "value": 90
+        },
+        {
+            "type": "Frameworks",
+            "skill": "Flask",
+            "value": 100
+        },
+        {
+            "type": "Frameworks",
+            "skill": "Flutter",
+            "value": 50
+        }
+    ],
+    "hobbies": [
+        "Servers, hosting, hardware",
+        "Programming",
+        "DJing",
+        "Sports",
+        "Gardening",
+        "Cooking",
+        "Travelling"
+    ]
+}
